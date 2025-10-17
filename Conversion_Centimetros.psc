@@ -1,6 +1,6 @@
-Algoritmo Conversion_Centimetros
+Algoritmo Conversion_Centimetros mal equivocado
     Definir cm, yardas, metros, pies, pulgadas Como Real
-    Escribir "Ingrese un valor en centímetros:"
+    Escribir "Ingrese un valor en centÃ­metros:"
     Leer cm
     metros <- cm / 100
     yardas <- cm / 91.44
@@ -11,3 +11,4 @@ Algoritmo Conversion_Centimetros
     Escribir "Equivale a: ", pies, " pies"
     Escribir "Equivale a: ", pulgadas, " pulgadas"
 FinAlgoritmo
+
